@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" fill="none">
+  <title>Eucalyptus branch with gum leaves and blossoms</title>
+  <g stroke="#F4F3EA" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 234c62-40 107-91 151-165 17-29 47-45 101-53" stroke-width="4"/>
+    <path d="M106 166c-16-27-38-45-68-52M145 111c-10-31-26-55-51-73M178 78c17 6 37 6 62-2M81 193c28 1 53 10 76 29" stroke-width="2.4" opacity=".72"/>
+  </g>
+  <g fill="#A9BCA7" stroke="#F4F3EA" stroke-width="2">
+    <ellipse cx="47" cy="107" rx="12" ry="30" transform="rotate(-58 47 107)"/>
+    <ellipse cx="78" cy="128" rx="11" ry="28" transform="rotate(-43 78 128)"/>
+    <ellipse cx="88" cy="44" rx="11" ry="29" transform="rotate(-32 88 44)"/>
+    <ellipse cx="113" cy="66" rx="11" ry="30" transform="rotate(-47 113 66)"/>
+    <ellipse cx="224" cy="70" rx="11" ry="29" transform="rotate(73 224 70)"/>
+    <ellipse cx="256" cy="48" rx="11" ry="29" transform="rotate(60 256 48)"/>
+    <ellipse cx="112" cy="205" rx="11" ry="29" transform="rotate(111 112 205)"/>
+    <ellipse cx="146" cy="225" rx="11" ry="28" transform="rotate(126 146 225)"/>
+  </g>
+  <g fill="#E3A7B5" stroke="#F4F3EA" stroke-width="2">
+    <circle cx="190" cy="66" r="9"/>
+    <circle cx="204" cy="58" r="7"/>
+    <circle cx="199" cy="75" r="7"/>
+  </g>
+  <g stroke="#E3A7B5" stroke-linecap="round" stroke-width="2">
+    <path d="M190 51v-13M180 55l-10-10M205 47l7-12M214 59l13-5M214 72l12 7M203 83l4 13M187 82l-8 12M177 70l-13 2"/>
+  </g>
+</svg>

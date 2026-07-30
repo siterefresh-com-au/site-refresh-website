@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" fill="none">
+  <title>Bottlebrush stem with narrow native leaves</title>
+  <path d="M49 238c61-38 99-88 127-151 11-25 25-47 49-66" stroke="#F4F3EA" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#A9BCA7" stroke="#F4F3EA" stroke-width="2">
+    <path d="M95 181c-31 3-50 11-67 27 29 3 51-3 67-27Z"/>
+    <path d="M117 153c-33-5-55-1-76 11 28 10 53 7 76-11Z"/>
+    <path d="M139 124c-29-14-52-16-76-11 25 18 49 22 76 11Z"/>
+    <path d="M174 81c-7-29-3-51 10-72 9 27 6 51-10 72Z"/>
+    <path d="M190 63c13-26 29-43 52-54-8 29-25 47-52 54Z"/>
+    <path d="M75 206c25 5 45 16 59 35-27-2-48-13-59-35Z"/>
+  </g>
+  <path d="M166 96c13-7 32-6 51 1 20 8 35 19 43 34-16 10-38 11-60 3-21-8-35-21-34-38Z" fill="#7D1735" stroke="#F4F3EA" stroke-width="2"/>
+  <g stroke="#E3A7B5" stroke-linecap="round" stroke-width="2.2">
+    <path d="m171 95 5-18M178 100l10-20M186 105l15-19M195 110l18-17M205 115l21-13M216 119l22-8M228 123l23-3M239 128l22 3M178 118l-9 16M188 123l-5 18M200 127l1 19M212 131l7 18M224 132l12 15M236 132l16 11M249 130l17 5"/>
+  </g>
+  <circle cx="266" cy="130" r="5" fill="#E3A7B5"/>
+</svg>

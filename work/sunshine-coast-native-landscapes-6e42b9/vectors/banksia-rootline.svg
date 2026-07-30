@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" fill="none">
+  <title>Banksia cone, leaves and spreading roots</title>
+  <path d="M161 196c-5 23-7 39-5 49M157 211c-24 9-43 21-57 36M157 218c24 4 46 14 66 30M156 229c-11 6-19 13-24 22M157 232c9 4 17 10 23 19" stroke="#E3A7B5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M162 198c-4-34-2-65 7-94" stroke="#F4F3EA" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#A9BCA7" stroke="#F4F3EA" stroke-width="2" stroke-linejoin="round">
+    <path d="M158 167c-35 5-64 1-90-13l12-7-14-9 15-6-11-11c34 5 63 17 88 35Z"/>
+    <path d="M163 145c32-2 61-11 85-28l-13-5 11-12-16-3 8-14c-32 9-57 26-75 52Z"/>
+    <path d="M161 191c-32 8-58 8-81 0l10-10-15-6 13-9-13-9c31 1 60 9 86 24Z"/>
+  </g>
+  <path d="M142 37c15-20 41-22 57-3 15 18 14 56 0 77-14 21-42 20-56-2-13-21-14-54-1-72Z" fill="#B69B72" stroke="#F4F3EA" stroke-width="3"/>
+  <g stroke="#7D1735" stroke-width="2" stroke-linecap="round">
+    <path d="m147 49 47 47M143 64l52 48M147 36l50 45M142 80l39 36M159 28l41 38M178 27l24 23M194 36l-48 48M200 51l-51 49M201 68l-44 45M195 89l-27 28"/>
+  </g>
+</svg>

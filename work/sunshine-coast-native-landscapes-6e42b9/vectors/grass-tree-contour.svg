@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" fill="none">
+  <title>Australian grass tree on a contoured ground line</title>
+  <path d="M24 225c55-12 102-9 145 7 45 17 87 17 127-2" stroke="#F4F3EA" stroke-width="3" stroke-linecap="round" opacity=".72"/>
+  <path d="M130 225c5-28 8-51 7-71h48c-2 24 1 48 8 72" fill="#7D604E" stroke="#F4F3EA" stroke-width="3" stroke-linejoin="round"/>
+  <g stroke="#E3A7B5" stroke-linecap="round" stroke-width="2" opacity=".8">
+    <path d="m143 168 35 16M140 181l43 18M137 195l50 18"/>
+  </g>
+  <g stroke="#A9BCA7" stroke-linecap="round" stroke-width="4">
+    <path d="M160 154C110 130 73 106 42 71M160 154C104 148 65 136 28 116M160 154C111 163 72 168 34 166M160 154c-39 25-71 47-95 70M160 154c28-32 50-66 66-104M160 154c46-22 79-48 101-77M160 154c49-5 87-1 117 11M160 154c36 18 70 43 100 75"/>
+  </g>
+  <g stroke="#F4F3EA" stroke-linecap="round" stroke-width="1.5" opacity=".9">
+    <path d="M160 152C122 112 98 76 89 42M160 152C132 98 122 58 127 18M160 152c-3-52 3-94 18-127M160 152c19-45 43-80 72-104M160 152c39-28 69-43 91-44"/>
+  </g>
+  <path d="M159 151V45" stroke="#F4F3EA" stroke-width="4" stroke-linecap="round"/>
+  <path d="M159 45V17" stroke="#E3A7B5" stroke-width="10" stroke-linecap="round"/>
+</svg>
