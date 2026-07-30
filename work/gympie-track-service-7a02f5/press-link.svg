@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+  <title id="title">Portable press and track link concept</title>
+  <desc id="desc">A vector illustration of a track link held inside a portable hydraulic press.</desc>
+  <rect width="760" height="520" fill="#fbfaf7"/>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M137 87h486v346H137Z" stroke="#171b20" stroke-width="34"/>
+    <path d="M169 119h422v282H169Z" stroke="#2457d6" stroke-width="8"/>
+    <path d="M329 52h102v99H329Z" fill="#2457d6" stroke="#171b20" stroke-width="10"/>
+    <path d="M361 142h38v87h-38Z" fill="#c49b2f" stroke="#171b20" stroke-width="8"/>
+    <path d="M281 225h198l69 61-69 61H281l-69-61Z" fill="#e6e3dc" stroke="#171b20" stroke-width="15"/>
+    <circle cx="299" cy="286" r="31" fill="#fbfaf7" stroke="#2457d6" stroke-width="10"/>
+    <circle cx="461" cy="286" r="31" fill="#fbfaf7" stroke="#2457d6" stroke-width="10"/>
+    <path d="M380 229v114" stroke="#c49b2f" stroke-width="12"/>
+    <path d="M104 448h552" stroke="#171b20" stroke-width="10"/>
+    <path d="M93 471h122M545 471h122" stroke="#2457d6" stroke-width="8"/>
+  </g>
+</svg>

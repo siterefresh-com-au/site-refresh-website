@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual ground engaging tools</title>
+  <desc id="desc">A vector study of three earthmoving tooth profiles meeting the working edge.</desc>
+  <rect width="800" height="680" fill="#171b20"/>
+  <path d="M0 541h800v139H0Z" fill="#2457d6"/>
+  <g fill="#f4f2eb" stroke="#f4f2eb" stroke-linejoin="miter">
+    <path d="m105 449 78-259 105-74 78 39-95 99-42 223Z" stroke-width="8"/>
+    <path d="m317 479 54-329 90-84 86 22-69 123-17 283Z" stroke-width="8"/>
+    <path d="m522 473 17-270 69-96 94 8-48 125 17 244Z" stroke-width="8"/>
+  </g>
+  <g fill="none" stroke="#c49b2f" stroke-width="12">
+    <path d="m160 311 82-70"/>
+    <path d="m388 267 88-78"/>
+    <path d="m550 315 96-91"/>
+  </g>
+  <g fill="none" stroke="#78808a" stroke-width="3">
+    <path d="M57 511h689"/>
+    <path d="M57 527h689"/>
+    <path d="M57 543h689"/>
+  </g>
+  <g fill="#f4f2eb">
+    <rect x="105" y="585" width="136" height="9"/>
+    <rect x="332" y="585" width="136" height="9"/>
+    <rect x="559" y="585" width="136" height="9"/>
+  </g>
+</svg>
