@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180" fill="none">
+  <g stroke="#202126" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M16 92h82V42h92v96h104V66h92v58h98"/>
+  </g>
+  <g fill="#e8e9e6" stroke="#ed5b27" stroke-width="5">
+    <circle cx="98" cy="92" r="11"/>
+    <circle cx="190" cy="42" r="11"/>
+    <circle cx="190" cy="138" r="11"/>
+    <circle cx="294" cy="138" r="11"/>
+    <circle cx="386" cy="66" r="11"/>
+    <circle cx="386" cy="124" r="11"/>
+  </g>
+  <path fill="#ed5b27" d="m484 92-22-14v28l22-14Z"/>
+</svg>
