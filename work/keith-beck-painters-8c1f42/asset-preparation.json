@@ -1,0 +1,14 @@
+{
+  "sources": [
+    "hero-source.png",
+    "edge-source.png",
+    "commercial-source.png"
+  ],
+  "logoSource": "evidence/source-assets/keith-beck-logo-source.jpg",
+  "outputs": [
+    "hero.webp",
+    "edge-detail.webp",
+    "commercial.webp",
+    "logo.png"
+  ]
+}
