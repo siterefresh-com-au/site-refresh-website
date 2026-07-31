@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">Paul Newport Roof Restoration Queensland</title>
+  <desc id="desc">The business name beside the two overlapping teal and amber circles used on the current website.</desc>
+  <circle cx="53" cy="48" r="34" fill="#3cb2b2" fill-opacity=".75"/>
+  <circle cx="85" cy="68" r="44" fill="#f2ad2e" fill-opacity=".83"/>
+  <g fill="#4a1d0c">
+    <text x="150" y="66" font-family="Georgia, serif" font-size="38" font-weight="700" letter-spacing="4">PAUL NEWPORT</text>
+    <text x="151" y="105" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">ROOF RESTORATION QUEENSLAND</text>
+  </g>
+</svg>
