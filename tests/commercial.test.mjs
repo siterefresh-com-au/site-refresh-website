@@ -9,23 +9,23 @@ import {
 
 test("calculates the standard 30/70 project split including GST", () => {
   assert.deepEqual(calculateProjectAmounts(), {
-    projectExGstCents: 495000,
-    projectGstCents: 49500,
-    projectIncGstCents: 544500,
-    depositExGstCents: 148500,
-    depositGstCents: 14850,
-    depositIncGstCents: 163350,
-    balanceExGstCents: 346500,
-    balanceGstCents: 34650,
-    balanceIncGstCents: 381150,
+    projectExGstCents: 395000,
+    projectGstCents: 39500,
+    projectIncGstCents: 434500,
+    depositExGstCents: 118500,
+    depositGstCents: 11850,
+    depositIncGstCents: 130350,
+    balanceExGstCents: 276500,
+    balanceGstCents: 27650,
+    balanceIncGstCents: 304150,
   });
 });
 
 test("calculates monthly hosting including GST", () => {
   assert.deepEqual(calculateHostingAmounts(), {
-    hostingExGstCents: 9900,
-    hostingGstCents: 990,
-    hostingIncGstCents: 10890,
+    hostingExGstCents: 8900,
+    hostingGstCents: 890,
+    hostingIncGstCents: 9790,
   });
 });
 

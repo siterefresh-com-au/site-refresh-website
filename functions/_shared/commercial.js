@@ -1,7 +1,7 @@
-export const STANDARD_PROJECT_EX_GST_CENTS = 495_000;
+export const STANDARD_PROJECT_EX_GST_CENTS = 395_000;
 export const GST_RATE_PERCENT = 10;
 export const DEPOSIT_PERCENT = 30;
-export const HOSTING_EX_GST_CENTS = 9_900;
+export const HOSTING_EX_GST_CENTS = 8_900;
 
 function percentOf(cents, percent) {
   return Math.round((cents * percent) / 100);
