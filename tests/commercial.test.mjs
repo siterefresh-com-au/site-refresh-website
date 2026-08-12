@@ -9,15 +9,15 @@ import {
 
 test("calculates the standard 30/70 project split including GST", () => {
   assert.deepEqual(calculateProjectAmounts(), {
-    projectExGstCents: 395000,
-    projectGstCents: 39500,
-    projectIncGstCents: 434500,
-    depositExGstCents: 118500,
-    depositGstCents: 11850,
-    depositIncGstCents: 130350,
-    balanceExGstCents: 276500,
-    balanceGstCents: 27650,
-    balanceIncGstCents: 304150,
+    projectExGstCents: 195000,
+    projectGstCents: 19500,
+    projectIncGstCents: 214500,
+    depositExGstCents: 58500,
+    depositGstCents: 5850,
+    depositIncGstCents: 64350,
+    balanceExGstCents: 136500,
+    balanceGstCents: 13650,
+    balanceIncGstCents: 150150,
   });
 });
 

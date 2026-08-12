@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 
 const required = [
+  "index.html",
   "start.html",
   "terms.html",
   "privacy.html",
@@ -29,6 +30,13 @@ for (const field of [
 ]) {
   assert.match(start, new RegExp(`name=["']${field}["']`), `Missing onboarding field ${field}`);
 }
+
+const home = contents.get("index.html");
+assert.match(home, /Essential[\s\S]*\$1,950[\s\S]*Professional[\s\S]*\$3,450[\s\S]*Custom[\s\S]*Call me/, "Homepage pricing tiers are not current");
+assert.doesNotMatch(home, /\$(?:3,950|6,950|12,950)/, "Homepage still contains superseded tier pricing");
+
+const terms = contents.get("terms.html");
+assert.match(terms, /standard base project is \$1,950 plus \$195 GST, totalling \$2,145/, "Terms do not contain the current standard project price");
 
 const allText = [...contents.values()].join("\n");
 assert.doesNotMatch(allText, /(?:sk|rk)_(?:live|test)_[A-Za-z0-9]{8,}/, "Possible Stripe key in static files");
