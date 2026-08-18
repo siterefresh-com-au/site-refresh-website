@@ -1,0 +1,587 @@
+{
+  "generatedAt": "2026-08-18T10:50:40.936Z",
+  "target": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/",
+  "browserPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "robots": {
+    "header": "noindex, nofollow, noarchive",
+    "meta": "noindex, nofollow, noarchive"
+  },
+  "artifactRoot": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007",
+  "assets": [
+    {
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 26189,
+      "decoded": true,
+      "remoteSha256": "7974c7bb432e109632b8f9d84c4180b8e54a597acd36a673fd2682ab136e48ff",
+      "localPath": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007\\work\\eddie-marshall-excavations-06ea1ebc\\logo.jpg",
+      "localSha256": "7974c7bb432e109632b8f9d84c4180b8e54a597acd36a673fd2682ab136e48ff",
+      "hashMatches": true
+    },
+    {
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 192976,
+      "decoded": true,
+      "remoteSha256": "bbe4b18c2bba24ba7fa7b9a270bf57d41ddba52c3c05451fefb5d1aeb1e9402b",
+      "localPath": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007\\work\\eddie-marshall-excavations-06ea1ebc\\hero.webp",
+      "localSha256": "bbe4b18c2bba24ba7fa7b9a270bf57d41ddba52c3c05451fefb5d1aeb1e9402b",
+      "hashMatches": true
+    },
+    {
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 224196,
+      "decoded": true,
+      "remoteSha256": "76345bc5031e76ebe4b569cfea53ea5ef4aedcb5a170f4bbb5c4049718464fb7",
+      "localPath": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007\\work\\eddie-marshall-excavations-06ea1ebc\\final-trim.webp",
+      "localSha256": "76345bc5031e76ebe4b569cfea53ea5ef4aedcb5a170f4bbb5c4049718464fb7",
+      "hashMatches": true
+    },
+    {
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 243794,
+      "decoded": true,
+      "remoteSha256": "c2a687b55bf38c760f856310370932f99f4eb2baaca87041bb8186a1d01c5ca3",
+      "localPath": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007\\work\\eddie-marshall-excavations-06ea1ebc\\boulder-wall.webp",
+      "localSha256": "c2a687b55bf38c760f856310370932f99f4eb2baaca87041bb8186a1d01c5ca3",
+      "hashMatches": true
+    },
+    {
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 179936,
+      "decoded": true,
+      "remoteSha256": "57d51d511deaab0672e38ef996784def0a1ba60dd4291e7ce6bafd78366f597c",
+      "localPath": "C:\\Users\\Ryan\\Documents\\Websites\\site-refresh-release-sc-20260720-007\\work\\eddie-marshall-excavations-06ea1ebc\\dam.webp",
+      "localSha256": "57d51d511deaab0672e38ef996784def0a1ba60dd4291e7ce6bafd78366f597c",
+      "hashMatches": true
+    }
+  ],
+  "viewports": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "C:\\Users\\Ryan\\Documents\\Websites\\siterefresh-prospect-demos-sc-20260720-007\\evidence\\SC-20260720-007\\site-qa\\live\\desktop-1440x900.png",
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "alt": "Eddie Marshall Excavations, Artist with a Bucket",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 11514.84375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        },
+        {
+          "alt": "Orange excavator shaping a broad earth pad on a Sunshine Coast hinterland block",
+          "complete": true,
+          "naturalHeight": 840,
+          "naturalWidth": 1680,
+          "renderedArea": 474118,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+        },
+        {
+          "alt": "Excavator final trimming a clean house pad on a hinterland property",
+          "complete": true,
+          "naturalHeight": 960,
+          "naturalWidth": 1280,
+          "renderedArea": 354062.25,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+        },
+        {
+          "alt": "Excavator positioning a sandstone boulder into a terraced wall",
+          "complete": true,
+          "naturalHeight": 930,
+          "naturalWidth": 1240,
+          "renderedArea": 403542.5,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+        },
+        {
+          "alt": "Excavator shaping the curved bank of a rural dam",
+          "complete": true,
+          "naturalHeight": 801,
+          "naturalWidth": 1280,
+          "renderedArea": 404650.5,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+        },
+        {
+          "alt": "Eddie Marshall Excavations",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 8933.359375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "height": 905.984375,
+          "name": "hero",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.36341533054707603,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 990.421875,
+          "name": "site-reading",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.24825437392525282,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1056.8125,
+          "name": "services",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.26517272195609176,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 877.203125,
+          "name": "final-trim",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 0.17809325329675876
+        },
+        {
+          "height": 937.578125,
+          "name": "approach",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.29971613476654724,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 806.046875,
+          "name": "contact",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 1.1293739588384004
+        }
+      ],
+      "railItems": [
+        {
+          "className": "brand",
+          "x": 100,
+          "right": 1144.40625,
+          "width": 195.59375
+        },
+        {
+          "className": "desktop-nav",
+          "x": 327.59375,
+          "right": 259.703125,
+          "width": 852.703125
+        },
+        {
+          "className": "header-call",
+          "x": 1212.296875,
+          "right": 100,
+          "width": 127.703125
+        },
+        {
+          "className": "mobile-nav",
+          "x": 0,
+          "right": 1440,
+          "width": 0
+        },
+        {
+          "className": "hero-copy",
+          "x": 100,
+          "right": 861.125,
+          "width": 478.875
+        },
+        {
+          "className": "rail footer-layout",
+          "x": 100,
+          "right": 100,
+          "width": 1240
+        }
+      ],
+      "unannotatedSections": []
+    },
+    {
+      "viewport": {
+        "name": "ultrawide",
+        "width": 1920,
+        "height": 1080
+      },
+      "screenshot": "C:\\Users\\Ryan\\Documents\\Websites\\siterefresh-prospect-demos-sc-20260720-007\\evidence\\SC-20260720-007\\site-qa\\live\\ultrawide-1920x1080.png",
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "alt": "Eddie Marshall Excavations, Artist with a Bucket",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 11514.84375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        },
+        {
+          "alt": "Orange excavator shaping a broad earth pad on a Sunshine Coast hinterland block",
+          "complete": true,
+          "naturalHeight": 840,
+          "naturalWidth": 1680,
+          "renderedArea": 409274,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+        },
+        {
+          "alt": "Excavator final trimming a clean house pad on a hinterland property",
+          "complete": true,
+          "naturalHeight": 960,
+          "naturalWidth": 1280,
+          "renderedArea": 350575,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+        },
+        {
+          "alt": "Excavator positioning a sandstone boulder into a terraced wall",
+          "complete": true,
+          "naturalHeight": 930,
+          "naturalWidth": 1240,
+          "renderedArea": 399575.75,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+        },
+        {
+          "alt": "Excavator shaping the curved bank of a rural dam",
+          "complete": true,
+          "naturalHeight": 801,
+          "naturalWidth": 1280,
+          "renderedArea": 400673,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+        },
+        {
+          "alt": "Eddie Marshall Excavations",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 8933.359375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "height": 1002,
+          "name": "hero",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.2127380655355955,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1137.703125,
+          "name": "site-reading",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.16049102953227218,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1168.515625,
+          "name": "services",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.1780997749102984,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 989.390625,
+          "name": "final-trim",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 0.11539089191052994
+        },
+        {
+          "height": 1005,
+          "name": "approach",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.20764562603648423,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 907.109375,
+          "name": "contact",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 1.09797607421875
+        }
+      ],
+      "railItems": [
+        {
+          "className": "brand",
+          "x": 340,
+          "right": 1384.40625,
+          "width": 195.59375
+        },
+        {
+          "className": "desktop-nav",
+          "x": 567.59375,
+          "right": 499.703125,
+          "width": 852.703125
+        },
+        {
+          "className": "header-call",
+          "x": 1452.296875,
+          "right": 340,
+          "width": 127.703125
+        },
+        {
+          "className": "mobile-nav",
+          "x": 0,
+          "right": 1920,
+          "width": 0
+        },
+        {
+          "className": "hero-copy",
+          "x": 340,
+          "right": 1014.890625,
+          "width": 565.109375
+        },
+        {
+          "className": "rail footer-layout",
+          "x": 340,
+          "right": 340,
+          "width": 1240
+        }
+      ],
+      "unannotatedSections": []
+    },
+    {
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 693
+      },
+      "screenshot": "C:\\Users\\Ryan\\Documents\\Websites\\siterefresh-prospect-demos-sc-20260720-007\\evidence\\SC-20260720-007\\site-qa\\live\\mobile-390x693.png",
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "alt": "Eddie Marshall Excavations, Artist with a Bucket",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 8034.09375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        },
+        {
+          "alt": "Orange excavator shaping a broad earth pad on a Sunshine Coast hinterland block",
+          "complete": true,
+          "naturalHeight": 840,
+          "naturalWidth": 1680,
+          "renderedArea": 142556.25,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+        },
+        {
+          "alt": "Excavator final trimming a clean house pad on a hinterland property",
+          "complete": true,
+          "naturalHeight": 960,
+          "naturalWidth": 1280,
+          "renderedArea": 148258.5,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+        },
+        {
+          "alt": "Excavator positioning a sandstone boulder into a terraced wall",
+          "complete": true,
+          "naturalHeight": 930,
+          "naturalWidth": 1240,
+          "renderedArea": 148258.5,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+        },
+        {
+          "alt": "Excavator shaping the curved bank of a rural dam",
+          "complete": true,
+          "naturalHeight": 801,
+          "naturalWidth": 1280,
+          "renderedArea": 148258.5,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+        },
+        {
+          "alt": "Eddie Marshall Excavations",
+          "complete": true,
+          "naturalHeight": 206,
+          "naturalWidth": 517,
+          "renderedArea": 8933.359375,
+          "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/logo.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "height": 1049.21875,
+          "name": "hero",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.3483819233633083,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/hero.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1283.625,
+          "name": "site-reading",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.2961534716135943,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/final-trim.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1500.84375,
+          "name": "services",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.25329085722614364,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/boulder-wall.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 1020.125,
+          "name": "final-trim",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 0.31531957810600136
+        },
+        {
+          "height": 1129.609375,
+          "name": "approach",
+          "substantial": true,
+          "visual": "photo",
+          "photos": [
+            {
+              "decoded": true,
+              "ratio": 0.33653226364202227,
+              "src": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/dam.webp"
+            }
+          ],
+          "anchorRatio": 0
+        },
+        {
+          "height": 703.3125,
+          "name": "contact",
+          "substantial": true,
+          "visual": "illustration",
+          "photos": [],
+          "anchorRatio": 0.7999977783702124
+        }
+      ],
+      "railItems": [
+        {
+          "className": "brand",
+          "x": 16.796875,
+          "right": 90.40625,
+          "width": 282.796875
+        },
+        {
+          "className": "desktop-nav",
+          "x": 0,
+          "right": 390,
+          "width": 0
+        },
+        {
+          "className": "header-call",
+          "x": 0,
+          "right": 390,
+          "width": 0
+        },
+        {
+          "className": "mobile-nav",
+          "x": 331.59375,
+          "right": 16.8125,
+          "width": 41.59375
+        },
+        {
+          "className": "hero-copy",
+          "x": 16.796875,
+          "right": 16.8125,
+          "width": 356.390625
+        },
+        {
+          "className": "rail footer-layout",
+          "x": 16.796875,
+          "right": 16.8125,
+          "width": 356.390625
+        }
+      ],
+      "unannotatedSections": []
+    }
+  ],
+  "failures": [],
+  "status": "PASS"
+}

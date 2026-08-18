@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-08-18T10:51:20Z",
+  "target": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/",
+  "status": "PASS",
+  "dependencies": [
+    {
+      "name": "index.html",
+      "url": "https://siterefresh.com.au/work/eddie-marshall-excavations-06ea1ebc/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 6896,
+      "sha256": "ccd1527a68062a494114993bf699be235a728f9aec5ccf0940fed514ae03c4a4",
+      "hashMatches": true
+    },
+    {
+      "name": "_astro/index.esNfV6iV.css",
+      "url": "https://siterefresh.com.au/_astro/index.esNfV6iV.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 11599,
+      "sha256": "159804ab5a6cd1aef45d96eaf55b34b95d5e45686ae8db3675a17e0a37300a6b",
+      "hashMatches": true
+    },
+    {
+      "name": "favicon.svg",
+      "url": "https://siterefresh.com.au/favicon.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 301,
+      "sha256": "e6755660ae8598c221202adb3a00ef7bee291d2c7ba818b62ed8d34228af58b7",
+      "hashMatches": true
+    }
+  ],
+  "note": "The image dependency hashes, MIME types and decode results are recorded separately in qa-report.json; all five unique image assets also matched the approved artifact."
+}
