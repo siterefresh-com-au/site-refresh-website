@@ -1,6 +1,6 @@
 # SC-20260720-003 pre-deployment report
 
-- Prospect and source: Concrete Control, prospect `SC-20260720-003`, source repository `siterefresh-com-au/siterefresh-prospect-demos`, isolated source commit `be20da46c7d67bea5e65a6561af9c6e9e0daf478`.
+- Prospect and source: Concrete Control, prospect `SC-20260720-003`, source repository `siterefresh-com-au/siterefresh-prospect-demos`, isolated source commit `5ba35aa956ec1a62e8d5329954c688e8ba0a62bf`.
 - Local review result: the immutable Astro artifact passed secret scanning, dependency audit, diagnostics, deterministic build, broken-link and asset-size checks, plus progressive Chrome rendering at desktop, ultrawide and mobile sizes with decoded image, MIME, SHA-256, overflow, fixed-palette, photo-coverage, overlay, transition and robots checks.
 - Production hostname and route: `https://siterefresh.com.au/work/concrete-control-8d31b7f2/`.
 - Cloudflare target and namespace: existing legacy `site-refresh` Cloudflare Pages production project, production branch `main`.
